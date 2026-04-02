@@ -65,29 +65,27 @@ const thao = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Twth404&show_icons=true&theme=radical&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twth404&layout=compact&theme=radical&border_radius=12&langs_count=8" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Twth404&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Twth404&theme=redical&bg_color=141321&color=F75C7E&line=fd1d1d&point=fcb045&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophy Collection
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Twth404&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" />
+
+<img src="https://img.shields.io/badge/🏆-COMMITS-ff006e?style=for-the-badge&labelColor=141321" />
+<img src="https://img.shields.io/badge/🥇-PULL%20REQUEST-fcb045?style=for-the-badge&labelColor=141321" />
+<img src="https://img.shields.io/badge/🥈-ISSUES-833ab4?style=for-the-badge&labelColor=141321" />
+<img src="https://img.shields.io/badge/🥉-REPOSITORIES-fd1d1d?style=for-the-badge&labelColor=141321" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⭐-STARS-f9ca24?style=for-the-badge&labelColor=141321" />
+<img src="https://img.shields.io/badge/👥-FOLLOWERS-00cfff?style=for-the-badge&labelColor=141321" />
+<img src="https://img.shields.io/badge/🔥-STREAK-ff4d00?style=for-the-badge&labelColor=141321" />
+<img src="https://img.shields.io/badge/🌐-MULTI%20LANG-00ff94?style=for-the-badge&labelColor=141321" />
+
 </div>
 
 ---
@@ -125,12 +123,6 @@ const thao = {
   <a href="https://YOUR_PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <br/>
