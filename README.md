@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-%F0%9F%91%80-blueviolet?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Twth404&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-Th%C3%A1i%20Nguy%C3%AAn%20VN%20%F0%9F%87%BB%F0%9F%87%B3-fd1d1d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-Th%C3%A1i%20Nguy%C3%AAn%20VN-fd1d1d?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-AI%20Automation-fcb045?style=for-the-badge" />
 </div>
@@ -65,21 +65,21 @@ const thao = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Twth404&show_icons=true&theme=radical&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=12&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twth404&layout=compact&theme=radical&border_radius=12&langs_count=8" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Twth404&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&bg_color=141321&color=F75C7E&line=fd1d1d&point=fcb045&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Twth404&theme=redical&bg_color=141321&color=F75C7E&line=fd1d1d&point=fcb045&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ const thao = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Twth404&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" />
 </div>
 
 ---
@@ -110,7 +110,7 @@ const thao = {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Twth404">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
@@ -139,16 +139,4 @@ const thao = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9ca24,30:fcb045,60:fd1d1d,100:833ab4&height=120&section=footer" width="100%" />
 </div>
 
----
-
-<!--
-  ✅ CHECKLIST — thay thế trước khi publish:
-  👉 Tất cả "YOUR_USERNAME"   → GitHub handle thật (vd: duongvanthao)
-  👉 "YOUR_INSTAGRAM"         → Instagram handle
-  👉 "YOUR_EMAIL@gmail.com"   → Email thật
-  👉 "YOUR_PORTFOLIO.com"     → Link portfolio
-
-  ❌ ĐÃ XÓA (vì cần setup riêng, dễ bị lỗi ảnh):
-  - Con rắn contribution snake → cần tạo GitHub Action workflow riêng
-    Hướng dẫn: https://github.com/Platane/snk
--->
+<!-- Còn cần thay: YOUR_INSTAGRAM · YOUR_EMAIL · YOUR_PORTFOLIO -->
