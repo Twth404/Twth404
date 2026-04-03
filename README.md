@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,30:fd1d1d,60:fcb045,100:f9ca24&height=220&section=header&text=D%C6%B0%C6%A1ng%20V%C4%83n%20Th%E1%BA%A3o&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Automation%20Builder&descAlignY=60&descSize=18" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/zeuHIk9.gif" width="120" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -65,45 +69,11 @@ const thao = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Twth404&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twth404&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
-## 🏆 Trophy Collection
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆-COMMITS-ff006e?style=for-the-badge&labelColor=141321" />
-<img src="https://img.shields.io/badge/🥇-PULL%20REQUEST-fcb045?style=for-the-badge&labelColor=141321" />
-<img src="https://img.shields.io/badge/🥈-ISSUES-833ab4?style=for-the-badge&labelColor=141321" />
-<img src="https://img.shields.io/badge/🥉-REPOSITORIES-fd1d1d?style=for-the-badge&labelColor=141321" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/⭐-STARS-f9ca24?style=for-the-badge&labelColor=141321" />
-<img src="https://img.shields.io/badge/👥-FOLLOWERS-00cfff?style=for-the-badge&labelColor=141321" />
-<img src="https://img.shields.io/badge/🔥-STREAK-ff4d00?style=for-the-badge&labelColor=141321" />
-<img src="https://img.shields.io/badge/🌐-MULTI%20LANG-00ff94?style=for-the-badge&labelColor=141321" />
-
-</div>
-
----
-
-## 💡 Current Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Mô tả |
-|:---|:---|
-| 🤖 **AI Auto-Solver** | Chrome extension tự động chụp màn hình & giải bài tập qua AI API |
-| 🌐 **Portfolio Website** | Trang cá nhân với hiệu ứng 3D & animation |
-| 🗃️ **Database Projects** | Thiết kế hệ thống quản lý với SQL Server |
-| 💸 **Freelance Tools** | Automation scripts kiếm thêm thu nhập online |
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
